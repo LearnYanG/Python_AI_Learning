@@ -38,3 +38,9 @@ python hello.py
 ## Future Goals
 
 Build practical AI applications and become an AI Application Engineer.
+
+## What I learned (2026.11.1)
+
+- Github clone
+- print()
+- change username and useremail
