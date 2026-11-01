@@ -1,0 +1,6 @@
+{
+    "name": "GPT-6",
+    "provider": "OpenAI",
+    "max_tokens": 4000,
+    "available": true
+}
